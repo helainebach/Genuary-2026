@@ -2,8 +2,6 @@
 
 My sketchbook for [Genuary 2026](https://genuary.art/).
 
----
-
 ## Journal
 
 ### Dec 21, 2025
