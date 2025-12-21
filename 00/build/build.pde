@@ -1,7 +1,7 @@
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-color[] palette = {#102341, #faf0f8, #00f5b8, #ffef85, #6190ff };
+color[] palette = {#0F0404, #FFF9EB, #365639, #FFD36C, #FFA395};
 String pathDATA = "../../_data/";
 Table prompts;
 String folderName;
@@ -19,8 +19,7 @@ void setup() {
 
 void draw() {
   background(palette[0]);
-
-  sig(day, prompts.getString(day - 1, 0), true, 1, 0);
+  sig(day, prompts.getString(day - 1, "prompt"), true, 1, 0);
   off += rate;
   // record();
 }
@@ -31,7 +30,6 @@ void record() {
 }
 
 void keyPressed() {
-
   switch(key) {
   case 'p':
     String fileName = new SimpleDateFormat("yyyyMMddHHmmss'.png'").format(new Date());
