@@ -21,3 +21,7 @@ I thought it might be nice to document my thought process and feelings around Ge
 > **2025**: Learning and making art is keeping me sane in a precarious world. I am using new skills like git to share the code for my work. I am pen plotting some of my designs. I am posting my work in discord servers full of other artists. I am not thinking too hard, just letting the art flow out of me. It is exciting.
 
 This year I will have a lot less time and energy to dedicate to this project. This is a good thing. I have a job with a lot of responsibility. This is a bad thing. I haven't coded in six months. I actually need to do this, whether it is going to feel easy or not. I need to do this to carve out some of what I love.
+
+### Jan 5, 2026
+
+I was three days behind. I used a lot of AI today to catch up. I am very tired.
